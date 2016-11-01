@@ -1,0 +1,44 @@
+body {
+  color: white;
+  background-color: Blue;
+  text-align: center;
+}
+
+title {
+  color: Red;
+  font-size: 48px;
+  font-style:italic;
+  font-family: serif;
+}
+
+header {
+  color: white;
+  font-size: 27px;
+  font-style: normal;
+}
+h1 {
+  color: #f7fffe;
+  font-family: 'Amatic SC', cursive;
+
+}
+
+h3 {
+  color: White;
+  font-family: 'Cinzel', serif;
+}
+
+li {
+  font-stretch: expanded;
+  font-family: 'Indie Flower', cursive;
+  font-size: 16px;
+  list-style: disc;;
+  list-style-position: inside;
+}
+
+p {
+  color: #4ba6c6;
+  font-size: 50px;
+  font-family: 'Cinzel', serif;
+  float:inherit;
+  text-align: center;
+}
